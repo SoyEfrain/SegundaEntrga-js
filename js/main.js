@@ -72,11 +72,11 @@
 
 // // EJEMPLO 4 arreglos 2
 
-// const productos = [
-//     {id: 1 , nombre: "Audi", precio: 27000},
-//     {id: 2 , nombre: "Bmw", precio: 35000},
-//     {id: 3 , nombre: "Ferrari", precio: 54000},
-// ]
+const productos = [
+    {id: 1 , nombre: "Audi", precio: 27000},
+    {id: 2 , nombre: "Bmw", precio: 35000},
+    {id: 3 , nombre: "Ferrari", precio: 54000},
+]
 
 // productos.forEach(item => {
 //     console.log(item)
